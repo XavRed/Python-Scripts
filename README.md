@@ -3,3 +3,4 @@
 
 ### Scripts
 * Brackets.py - Reformat JSON into machine friendly format
+* BruteForce.py - All the things!
